@@ -1,0 +1,11 @@
+=== LOG DE PEDIDOS ===
+Fecha y hora de inicio del procesamiento
+============================================
+Cocinero-1 proceso Pedido #1: Paella a las 21:51:06
+Cocinero-3 proceso Pedido #3: Sushi a las 21:51:07
+Cocinero-2 proceso Pedido #2: Pizza Margherita a las 21:51:07
+Cocinero-1 proceso Pedido #4: Hamburguesa a las 21:51:07
+Cocinero-3 proceso Pedido #5: Ensalada Cesar a las 21:51:09
+Cocinero-1 proceso Pedido #7: Tacos a las 21:51:09
+Cocinero-3 proceso Pedido #8: Ramen a las 21:51:10
+Cocinero-2 proceso Pedido #6: Pasta Carbonara a las 21:51:10
